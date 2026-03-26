@@ -165,8 +165,8 @@ Project--Quora-Duplicate-Question-Detection-with-Streamlit/
 
 ### 1. Clone Repository
 
-git clone [https://github.com/your-username/quora-duplicate-detection.git  ](https://github.com/BIRJUNG/-Project--Quora-Duplicate-Question-Detection.git)
-cd quora-duplicate-detection  
+git clone https://github.com/BIRJUNG/-Project--Quora-Duplicate-Question-Detection-with-streamlit.git
+cd -Project--Quora-Duplicate-Question-Detection-with-streamlit
 
 ---
 
